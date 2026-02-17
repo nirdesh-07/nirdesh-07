@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: DSA, Java-based applications, and Web Development  <br>👯 I'm looking to collaborate on: Java, Web Development, and open-source student projects  <br>🤝 I'm looking for help with: Problem-solving optimization and real-world project development  <br>🌱 I'm currently learning: Advanced Java, Operating Systems, DBMS, and Machine Learning  <br>💬 Ask me about: Java, OOP, Data Structures, and CS fundamentals  <br>⚡ Fun fact: I enjoy coding, gaming, and believe consistency beats talent 🚀<br>
+🔭 I'm currently working on: DSA, ML project,Deeplearning  <br>👯 I'm looking to collaborate on: Java, Web Development, and open-source student projects  <br>🤝 I'm looking for help with: Problem-solving optimization and real-world project development  <br>🌱 I'm currently learning: Advanced Java, Operating Systems, DBMS, and Machine Learning  <br>💬 Ask me about: Java, OOP, Data Structures, and CS fundamentals  <br>⚡ Fun fact: I enjoy coding, gaming, and believe consistency beats talent 🚀<br>
 
 
 ## 🌐 Socials:
