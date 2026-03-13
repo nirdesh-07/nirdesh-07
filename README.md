@@ -19,7 +19,7 @@
 
 ---
 
-## 🌌 CYBERPUNK WORLD
+## 🌌 Hi there I'm Nirdesh Gupta
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="900">
@@ -43,7 +43,7 @@
 
 ---
 
-## 🤖 3D ANIME MODELS
+## 🤖 Welcome To my Profile 
 
 <p align="center">
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me 
 
 <p align="center">
 
@@ -78,14 +78,102 @@
 </p>
 
 ---
-## 💻 Tech Stack
+## 🛠️ Tech Arsenal
 
-<p align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,html,css,mongodb,mysql,postgres,docker,flask,tensorflow,pytorch,opencv,threejs,vite,git,github,linux,arduino" />
+### 💻 Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </p>
 
+---
+
+### 🌐 Frontend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🤖 Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🧠 Deep Learning / AI
+
+<p>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+<img src="https://img.shields.io/badge/DeepLearning-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ComputerVision-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
+
+</p>
+
+---
+
+### 🧰 Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+</p>
 
 ---
 
@@ -113,26 +201,29 @@
 <img src="https://user-images.githubusercontent.com/74038190/212744275-1d6f0a52-9f7b-4e6c-8e1f-0bb0a5c2f1c6.gif" width="500"/>
 </p>
 
-```diff
-+ AI / ML
-  - CNN Image Classifier
-  - NLP Chatbot
-  - Deep Learning Models
+## 🚧 Currently Working On
 
-+ Web Development
-  - React Projects
-  - Node.js Backend
-  - Portfolio Website
+<p align="center">
 
-+ Programming
-  - Java OOP
-  - Data Structures
-  - LeetCode / HackerRank
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms;Machine+Learning;Deep+Learning;Full+Stack+Development;Open+Source+Projects" />
 
-+ Tools
-  - Git & GitHub
-  - Docker
-  - VS Code
-  - Linux
+</p>
 
+<p align="center">
+
+### ⚡ Thanks for visiting my profile ⚡  
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Stay+Curious;Build+Projects;Never+Stop+Learning;See+You+Again" />
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=140&section=footer"/>
+
+</p>
 <!-- Proudly created by Nirdesh Gupta -->
