@@ -3,18 +3,34 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00FFFF&center=true&vCenter=true&width=800&lines=Cyberpunk+Developer;AI+Engineer;Anime+Lover;Full+Stack+Dev;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00FFFF&center=true&vCenter=true&width=800&lines=GEN-AI+Dev;Web+Developer;ML+Engineer;Problem+Solver;Full+Stack+Dev;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 🌌 CYBERPUNK BANNER
+## 🌌 CYBERPUNK WORLD
 
 <p align="center">
-<img src="https://i.imgur.com/Zd6vN9p.gif" width="900"/>
+<img src="https://raw.githubusercontent.com/nirdeshgupta/nirdeshgupta/main/banner.png" width="900">
 </p>
 
 ---
+
+---
+
+## ⚔️ Coding Arena
+
+<p align="center">
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LEETCODE-CYBERPUNK-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HACKERRANK-CYBERPUNK-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
 
 ## 🤖 3D ANIME MODELS
 
