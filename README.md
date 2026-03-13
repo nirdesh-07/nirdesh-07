@@ -221,6 +221,37 @@
 
 </p>
 
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&color=00FFFF&center=true&vCenter=true&width=750&lines=LeetCode+Practice;HackerRank+Problems;Machine+Learning+Projects;Deep+Learning;Open+Source;Full+Stack+Development" />
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/bear_nirdesh_">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/bear_nirdesh_">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<img src="https://img.shields.io/badge/MachineLearning-Projects-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeepLearning-Learning-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenSource-Contributor-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Active-000000?style=for-the-badge&logo=github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nirdesh-07&theme=matrix&no-frame=true&margin-w=10"/>
+
+</p>
+
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=140&section=footer"/>
