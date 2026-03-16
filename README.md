@@ -189,26 +189,31 @@
 ---
 ---
 
-## 🚀 Experience
-
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Projects;Web+Development;Deep+Learning;Data+Structures+%26+Algorithms;Open+Source+Learning;Problem+Solving+Journey" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=140&section=footer"/>
 
 </p>
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirdesh-07&theme=tokyo-night"/>
+
+---
+
+## 🧠 LeetCode Stats
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-1d6f0a52-9f7b-4e6c-8e1f-0bb0a5c2f1c6.gif" width="500"/>
+<img src="https://leetcard.jacoblin.cool/bear_nirdesh_?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
-## 🚧 Currently Working On
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms;Machine+Learning;Deep+Learning;Full+Stack+Development;Open+Source+Projects" />
-
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
 <p align="center">
 
 ### ⚡ Thanks for visiting my profile ⚡  
