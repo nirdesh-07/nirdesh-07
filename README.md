@@ -13,17 +13,6 @@
 <br/>
 ---
 
-## 💫 About Me
-
-🔭 I'm currently working on: DSA, ML project, Deep Learning  
-👯 I'm looking to collaborate on: Java, Web Development, Open-source  
-🤝 I'm looking for help with: Problem solving & real projects  
-🌱 I'm currently learning: Advanced Java, OS, DBMS, ML  
-💬 Ask me about: Java, OOP, DSA  
-⚡ Fun fact: I enjoy coding, gaming & consistency 🚀
-
----
-
 ## 🌌 Hi there I'm Nirdesh Gupta
 
 <p align="center">
