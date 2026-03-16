@@ -1,11 +1,16 @@
-<h1 align="center">
-⚡ NIRDESH GUPTA ⚡
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00FFFF&center=true&vCenter=true&width=800&lines=GEN-AI+Dev;Web+Developer;ML+Engineer;Problem+Solver;Full+Stack+Dev;Future+Software+Engineer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,30:1a0033,60:2d0057,100:ff00ff&height=200&section=header&text=NIRDESH%20GUPTA&fontSize=60&fontColor=00FFFF&fontAlignY=55&animation=fadeIn&stroke=ff00ff&strokeWidth=2&desc=Full%20Stack%20Dev%20%7C%20ML%20%2F%20AI%20Engineer&descSize=18&descAlignY=78&descColor=ff99ff"/>
 
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=800&lines=⚡+Full+Stack+Developer;🤖+ML+%2F+AI+Engineer;🧠+Deep+Learning+Architect;🌐+Building+Intelligent+Web+Apps;🚀+Neon+Tokyo+Coder" />
+
+</div>
+
+<br/>
 ---
 
 ## 💫 About Me
